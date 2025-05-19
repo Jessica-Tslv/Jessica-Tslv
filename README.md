@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jessica-Tslv
 - 👀 I’m interested in Python, SQL, AWS & GCP
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently enrolled in Code First Girls' CFGdegree
 - 💞️ My goal is to land my first job in tech
 
 <!---
