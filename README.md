@@ -6,7 +6,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I’m a Development Support Engineer with a background in Operations and Customer Contact Analysis, having successfully pivoted into a technical role after dedicating my free time to learning and skill-building.
+I’m a Development Support Engineer with a background in customer service, having successfully pivoted into a technical role after dedicating my free time to learning and skill-building.
 
 In my current role, I work closely with development teams to triage technical issues, using Jira and SQL to analyze live data, diagnose problems, and, where possible, implement real-time fixes on the live website.
 
