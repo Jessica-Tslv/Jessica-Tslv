@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Jessica
 
-💻 Apprentice Software Engineer 
-🌱 Continuous Learner | Currently completing the Makers Software Engineering bootcamp 
-📍 Based in West Midlands / Manchester area
+💻 Apprentice Software Engineer  
+🌱 Continuous Learner | Currently completing the Makers Software Engineering bootcamp  
+📍 Based in West Midlands / Manchester area  
 
 ## 👩🏻‍💻 About Me
 
